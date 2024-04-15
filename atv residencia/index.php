@@ -1,9 +1,9 @@
 <?php
 // Definição das variáveis em PHP
-$nome = "João";
-$idade = 30;
-$peso = 70.5;
-$altura = 1.75;
+$nome = "Lucas";
+$idade = 26;
+$peso = 64.0;
+$altura = 1.80;
 $escolaridade = "Ensino Superior";
 
 ?>
